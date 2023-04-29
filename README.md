@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Omar. Graduate from faculty of Economics and political science. Don't ask me about Economics of Egypt nor politics. I'm only good at stats 
-- 👀 I’m interested in Quantitative Finance and everything in between.
-- 🌱 I’m currently learning geospatial data analysis
-- 📫 How to reach me o.abouyoussef73@gmail.com
+# 💫 About Me:
+Hi, I’m Omar. Graduate from faculty of Economics and political science. 
+Don't ask me about Economics of Egypt nor politics.
+I'm only good at stats
+<br>- 👀 I’m interested in Quantitative Finance.
+<br>- 🌱 I’m currently learning geospatial data analysis
+<br>- 📫 How to reach me o.abouyoussef73@gmail.com
 
-<!---
-OK3162022/OK3162022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omar-Abouyoussef&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omar-Abouyoussef&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-Abouyoussef&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omar-Abouyoussef&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=omar-Abouyoussef&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
