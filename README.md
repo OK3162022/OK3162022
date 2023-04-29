@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar. Graduate from faculty of Economics and political science. Don't ask me about Economics of Egypt nor politics. I'm only good at stats 
-- 👀 I’m interested in Statistics and Quantitative Finance and everything in between.
-- 🌱 I’m currently learning Stats too
+- 👀 I’m interested in Quantitative Finance and everything in between.
+- 🌱 I’m currently learning geospatial data analysis
 - 📫 How to reach me o.abouyoussef73@gmail.com
 
 <!---
